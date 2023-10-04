@@ -8,7 +8,7 @@ import Image from "next/image";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
-import { BackgroundShape } from "@components/BackgroundShape";
+
 import { Col, Container, Row } from "react-bootstrap";
 import { CDN } from "@utils/constant";
 
